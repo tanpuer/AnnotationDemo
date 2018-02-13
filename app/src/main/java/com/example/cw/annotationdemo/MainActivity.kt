@@ -1,4 +1,4 @@
-package com.example.cw.summary
+package com.example.cw.annotationdemo
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
